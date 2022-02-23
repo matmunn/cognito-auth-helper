@@ -1,0 +1,21 @@
+{
+  "name": "cognito-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.52.0",
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.2",
+    "enquirer": "^1.0.2",
+    "prompt-password": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
+}
